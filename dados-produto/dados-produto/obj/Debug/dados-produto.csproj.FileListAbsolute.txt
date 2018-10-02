@@ -1,0 +1,7 @@
+C:\Users\mvini\Desktop\Logica\dados-produto\dados-produto\bin\Debug\dados-produto.exe.config
+C:\Users\mvini\Desktop\Logica\dados-produto\dados-produto\bin\Debug\dados-produto.exe
+C:\Users\mvini\Desktop\Logica\dados-produto\dados-produto\bin\Debug\dados-produto.pdb
+C:\Users\mvini\Desktop\Logica\dados-produto\dados-produto\obj\Debug\dados-produto.csprojAssemblyReference.cache
+C:\Users\mvini\Desktop\Logica\dados-produto\dados-produto\obj\Debug\dados-produto.csproj.CoreCompileInputs.cache
+C:\Users\mvini\Desktop\Logica\dados-produto\dados-produto\obj\Debug\dados-produto.exe
+C:\Users\mvini\Desktop\Logica\dados-produto\dados-produto\obj\Debug\dados-produto.pdb
